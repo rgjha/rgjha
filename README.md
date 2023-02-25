@@ -12,13 +12,6 @@ Check out my [Website](https://rgjha.github.io) or find me on [Twitter](https://
 
 [1]: http://www.twitter.com/rgjha1989
 
-![Python](https://img.shields.io/badge/Python-.-red)
-![Mathematica](https://img.shields.io/badge/Mathematica-.-blue)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-.-blueviolet)
-![Julia](https://img.shields.io/badge/Julia-.-yellowgreen)
-![LaTeX](https://img.shields.io/badge/LaTeX-.-informational)
-
-
 
  <summary><b>Github Stats</b></summary>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgjha&show_icons=true&locale=en&theme=algolia" alt="rgjha" /></p>
