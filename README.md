@@ -1,16 +1,22 @@
 ### 
-<h1 align="center"> Welcome to my profile page </h1>  
+<h1 align="center"> Thank you for visiting my profile page </h1>  
 <a href="https://komarev.com/ghpvc/?username=rgjha"><img align="right" src="https://komarev.com/ghpvc/?username=rgjha&color=orange" /></a>
 
 
 <h3 align="center">  </p></h3>
 
-Find me on [Twitter](https://twitter.com/rgjha1989)[![twitter][1.1]][1] !
-<!---💻 [site](https://rgjha.github.io)-->
+Connect with me.  <p align="left"> <a href="https://www.github.com/rgjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>             <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rgjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>           <a href="https://www.twitter.com/rgjha1989" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon with padding)
 
-[1]: http://www.twitter.com/rgjha1989
+ 
+ 
+  <!-- <summary><b> Data Science Portfolio </b></summary> TO BE FILLED HERE --> 
+ 
+ 
+<summary><b> Full Academic CV and Research Publications </b></summary>
+ 
+<a href="https://rgjha.github.io/rjha_cv_v2.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/rgjha/rgjha.github.io/blob/master/gallery/image1.png" width="48" height="48" /></a></p>
+
 
 
  <summary><b>Github Stats</b></summary>
