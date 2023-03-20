@@ -5,7 +5,7 @@
 
 <h3 align="center">  </p></h3>
 
-Check out my [Website](https://rgjha.github.io) or find me on [Twitter](https://twitter.com/rgjha1989)[![twitter][1.1]][1] !
+Find me on [Twitter](https://twitter.com/rgjha1989)[![twitter][1.1]][1] !
 <!---💻 [site](https://rgjha.github.io)-->
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon with padding)
