@@ -17,7 +17,7 @@ Connect with me on social platforms:  <p align="left"> <a href="https://www.gith
   
 <summary><b> Full Academic CV and Research Publications </b></summary>
  
-<a href="https://rgjha.github.io/rjha_cv_v2.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/rgjha/rgjha.github.io/blob/master/gallery/image1.png" width="48" height="48" /></a></p>
+<a href="https://rgjha.github.io/raghav_jha_cv.pdf" target="_blank" rel="noreferrer"><img src="https://github.com/rgjha/rgjha.github.io/blob/master/gallery/image1.png" width="48" height="48" /></a></p>
 
  </br> 
  
