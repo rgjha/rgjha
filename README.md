@@ -2,11 +2,6 @@
 <h1 align="center"> Thank you for visiting my profile page </h1>  
 <a href="https://komarev.com/ghpvc/?username=rgjha"><img align="right" src="https://komarev.com/ghpvc/?username=rgjha&color=orange" /></a>
 
-
-<h3 align="center">  </p></h3>
-
-Connect with me on social platforms:  <p align="left"> <a href="https://www.github.com/rgjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>             <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rgjha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>           <a href="https://www.twitter.com/rgjha1989" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ✉️  Email: [raghav.govind.jha@gmail.com](mailto:raghav.govind.jha@gmail.com)
 
  </br> 
