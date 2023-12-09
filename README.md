@@ -2,10 +2,12 @@
 <h1 align="center"> Thank you for visiting my profile page </h1>  
 <a href="https://komarev.com/ghpvc/?username=rgjha"><img align="right" src="https://komarev.com/ghpvc/?username=rgjha&color=orange" /></a>
 
-I am a theoretical physicist working at Jefferson Lab as a postdoc since 2022. Before this, I spent three years at Perimeter Institute and six years at Syracuse University. 
-My research interests include (but are not limited to) --  lattice gauge theories, gauge/gravity duality, tensor networks, quantum
-information/computation, scattering amplitudes, and a bunch of random stuff (random matrix theory, random quantum circuits, and random tensor networks). 
-If you want to do a reading/research project or discuss interesting ideas, please contact me via email given below
+I am a theoretical physicist working at Jefferson Lab as a postdoc since 2022. Before this, I spent three 
+years at Perimeter Institute and six years at Syracuse University. My research interests include 
+(but are not limited to) --  lattice gauge theories, gauge/gravity duality, tensor networks, quantum
+information/computation, scattering amplitudes, and a bunch of random stuff (random matrix theory, 
+random quantum circuits, and random tensor networks). If you want to do a reading/research project 
+or discuss interesting ideas, please contact me via email given below
 
 ✉️  Email: [raghav.govind.jha@gmail.com](mailto:raghav.govind.jha@gmail.com)
   
