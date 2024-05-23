@@ -10,7 +10,7 @@ random quantum circuits, and random tensor networks).
 
 If you want to do a reading/research project or discuss interesting ideas, please contact me via email below
 
-✉️  Email: [raghav.govind.jha@gmail.com](mailto:raghav.govind.jha@gmail.com)
+✉️  Email: [raghav.govind.jha@gmail.com](mailto:rgjha1989@gmail.com)
   
 <summary><b> Full Academic CV and Research Publications (click the thumbnail below) </b></summary>
  
