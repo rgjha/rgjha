@@ -3,10 +3,11 @@
 <a href="https://komarev.com/ghpvc/?username=rgjha"><img align="right" src="https://komarev.com/ghpvc/?username=rgjha&color=orange" /></a>
 
 I am a theoretical physicist working at Jefferson Lab as a postdoc since Fall of 2022. Before this, I spent three 
-years at Perimeter Institute for Theoretical Physics in Canada and six years at Syracuse University in upstate New York. 
-My research interests include --  lattice gauge theories, gauge/gravity duality, tensor networks, quantum
-information/computation, and collection of random stuff (random matrix theory, 
-random quantum circuits, and random tensor networks). 
+years at the Perimeter Institute for Theoretical Physics in Canada as a postdoc and six years at Syracuse University in upstate New York
+as a PhD student. My research interests include --  quantum
+information/computation, lattice gauge theories, tensor networks, gauge/gravity duality, quantum chaos, 
+and collection of random stuff (random matrix theory (matrix integrals), random quantum circuits, and 
+random tensor networks). 
 
 If you want to do a reading/research project or discuss interesting ideas, please contact me via email below
 
