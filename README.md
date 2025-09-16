@@ -2,8 +2,8 @@
 <h1 align="center"> Thank you for visiting my profile page </h1>  
 <a href="https://komarev.com/ghpvc/?username=rgjha"><img align="right" src="https://komarev.com/ghpvc/?username=rgjha&color=orange" /></a>
 
-I am a theoretical physicist at NC State University in Raleigh. Before starting this position in September 2025, I was postdoc at Jefferson Lab and  
-Perimeter Institute for Theoretical Physics for three years each. I obtained my PhD in Physics from Syracuse University in 2019. 
+I am a theoretical physicist at NC State University. Before starting this position in September 2025, I was postdoc 
+at Jefferson Lab and Perimeter Institute for Theoretical Physics for three years each. I obtained my PhD in Physics from Syracuse University in 2019. 
 My research interests include --  quantum information/computation, lattice gauge theories, tensor networks, gauge/gravity duality, quantum chaos, 
 and collection of random stuff (random matrix theory (matrix integrals), random quantum circuits, and 
 random tensor networks). 
